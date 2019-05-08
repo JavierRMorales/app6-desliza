@@ -8,7 +8,7 @@
   <name> app5-2019 Advertencias del dispositivo </name>
   
   <description>
-    Desliza la app
+    Realiza Deslizado del dispositivo
   </description>
   
   <author href="https://build.phonegap.com" email="javierr.morales39@gmail.com">
@@ -16,9 +16,9 @@
   </author>
   
   <!-- Personaliza la aplicacion y plataforma -->
-  <Preference name="orientation" value"default"/>
-  <!--<preference name="orientation" value="portrait"/>
-  <preference name="orientation" value="landscape"/>-->
+  <!--Preference name="orientation" value"default"/> -->
+  <preference name="orientation" value="portrait"/>
+  <!-- <preference name="orientation" value="landscape"/>-->
   <preference name="target-device" value="universal"/>
   <preference name="fullscreen" value="true"/>
   <preference name="android-installLocation" value="auto"/>
@@ -30,7 +30,7 @@
   <plugin name="cordova-plugin-vibration" spec="~2.1.3"/>
   <plugin name="cordova-plugin-dialogs" spec="~1.3.1"/>
   
-  <plugin name="cordova-plugin-geolocation" source"nmp"/>
+  <!-- <plugin name="cordova-plugin-geolocation" source"nmp"/> -->
   <!--third part plugins-->
   
    <!--Colocar icono app-->
