@@ -5,10 +5,10 @@
   id = "com.phonegap.app6"
   version = "1.0.0">
   
-  <name> app6-2019 Desliza izquierda y derecha </name>
+  <name> app5-2019 Advertencias del dispositivo </name>
   
   <description>
-    Realiza un Deslizado, vibración y beep del dispositivo
+    Desliza la app
   </description>
   
   <author href="https://build.phonegap.com" email="javierr.morales39@gmail.com">
@@ -17,8 +17,8 @@
   
   <!-- Personaliza la aplicacion y plataforma -->
   <Preference name="orientation" value"default"/>
-  <!--<preference name="orientation" value="portrait"/>-->
-  <!--<preference name="orientation" value="landscape"/>-->
+  <!--<preference name="orientation" value="portrait"/>
+  <preference name="orientation" value="landscape"/>-->
   <preference name="target-device" value="universal"/>
   <preference name="fullscreen" value="true"/>
   <preference name="android-installLocation" value="auto"/>
